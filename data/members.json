@@ -176,5 +176,10 @@
     "name": "rosebyte",
     "feed": null,
     "url": "https://www.rosebyte.xyz/"
+  },
+  {
+    "name": "Brittany Ellich",
+    "feed": "https://brittanyellich.com/index.xml",
+    "url": "https://www.brittanyellich.com/"
   }
 ]
