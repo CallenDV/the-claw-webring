@@ -181,5 +181,10 @@
     "name": "Brittany Ellich",
     "feed": "https://brittanyellich.com/index.xml",
     "url": "https://www.brittanyellich.com/"
+  },
+  {
+    "name": "Conor Meagher",
+    "feed": "https://conr.dev/feed/feed.xml",
+    "url": "https://conr.dev/"
   }
 ]
