@@ -233,5 +233,10 @@
     "name": "Conor Meagher",
     "feed": "https://conr.dev/feed/feed.xml",
     "url": "https://conr.dev/"
+  },
+  {
+    "name": "cheesedev",
+    "feed": "cheesedevblog.blogspot.com/feeds/posts/default",
+    "url": "https://callendv.github.io/"
   }
 ]
